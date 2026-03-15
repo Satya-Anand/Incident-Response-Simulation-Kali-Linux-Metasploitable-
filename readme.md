@@ -83,7 +83,7 @@ The attacker machine performed **reconnaissance and exploitation attempts** agai
 
 ### Authentication Log Evidence
 
-![Auth Logs](screenshots/auth_log_evidence.png,auth_log_evidence.png(1))
+![Auth Logs](screenshots/auth_log_evidence.png,auth_logauth_log_evidence(1).png)
 
 ---
 
